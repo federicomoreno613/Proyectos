@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Federico Moreno</h1>
-<p>Página de proyectos de Data Science en Python y R.</p>
-</body>
-</html>
