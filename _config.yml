@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
 title: Federico Moreno
 description: Emprendedor apasionado por el mundo de las ciencias de datos.
+github:
+  zip_url: https://github.com/federicomoreno613/proyectos/blob/master/Creatividad/kafka3.ipynb
+  another_url: https://github.com/federicomoreno613/proyectos/blob/master/Creatividad/dramaturgia.txt
