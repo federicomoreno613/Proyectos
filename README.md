@@ -1,6 +1,6 @@
 
-### (https://www.linkedin.com/in/federico-moreno-32955316/)
-### (federicomoreno613@gmail.com)
+### [CV] (https://www.linkedin.com/in/federico-moreno-32955316/)
+### [federicomoreno613@gmail.com](federicomoreno613@gmail.com)
 
 # Proyectos
 
