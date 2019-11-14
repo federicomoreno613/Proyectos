@@ -14,8 +14,8 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 
 ## Clustering con audio features de la API de Spotify
 ### [Trabajo de investigacion](https://github.com/federicomoreno613/proyectos/raw/master/Clustering%20con%20Sonido/DMCyT-TP1_Moreno-Picchetti.pdf)
-### [Notebooks de python]
-### [Carpeta con datasets](https://github.com/federicomoreno613/proyectos/tree/master/Clustering%20con%20Sonido)
+### [Notebooks de python](https://github.com/federicomoreno613/proyectos/blob/master/Clustering%20con%20Sonido/TP1/TP1.ipynb) 
+### [Carpeta con datasets](https://github.com/federicomoreno613/proyectos/tree/master/Clustering%20con%20Sonido/TP1)
 
 ## Creatividad con algoritmos.
 ### [Ejercicios de Dramaturgia con Python](https://github.com/federicomoreno613/proyectos/blob/master/Creatividad/kafka3.ipynb)
