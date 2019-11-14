@@ -1,5 +1,10 @@
 # Proyectos
 
+## Analisis del dataset de properati
+### [EDA+Modelo lineal simple](https://rpubs.com/fede_moreno613/541034)
+### [Regresion lineal multiple](http://rpubs.com/fede_moreno613/549138)
+
+
 ## Creatividad con algoritmos.
 ### [Ejercicios de Dramaturgia con Python](https://github.com/federicomoreno613/proyectos/blob/master/Creatividad/kafka3.ipynb)
 *Prototipo*
