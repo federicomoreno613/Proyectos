@@ -1,3 +1,7 @@
+
+##### https://www.linkedin.com/in/federico-moreno-32955316/
+##### federicomoreno613@gmail.com
+
 # Proyectos
 
 ## Analisis del dataset de properati
