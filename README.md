@@ -14,6 +14,6 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 *Prototipo*
 
 ## Analisis de la data de https://www.preciosclaros.gob.ar/
-### [Precios Claros 1](https://github.com/federicomoreno613/proyectos/blob/master/Precios%20Claros%20CABA/Moreno_Picchetti_DM_TP01.pdf)
-### [Precios Claros 2](https://github.com/federicomoreno613/proyectos/blob/master/Precios%20Claros%20CABA/Informe_DM2.pdf)
+### [Precios Claros 1](https://github.com/federicomoreno613/proyectos/raw/master/Precios%20Claros%20CABA/Moreno_Picchetti_DM_TP01.pdf)
+### [Precios Claros 2](https://github.com/federicomoreno613/proyectos/raw/master/Precios%20Claros%20CABA/Informe_DM2.pdf)
 
