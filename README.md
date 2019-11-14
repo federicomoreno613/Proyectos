@@ -12,7 +12,7 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 ### [Precios Claros 1](https://github.com/federicomoreno613/proyectos/raw/master/Precios%20Claros%20CABA/Moreno_Picchetti_DM_TP01.pdf)
 ### [Precios Claros 2](https://github.com/federicomoreno613/proyectos/raw/master/Precios%20Claros%20CABA/Informe_DM2.pdf)
 
-## Clustering con aduio
+## Clustering con audio features de la API de Spotify
 ### [Trabajo de investigacion](https://github.com/federicomoreno613/proyectos/raw/master/Clustering%20con%20Sonido/DMCyT-TP1_Moreno-Picchetti.pdf)
 ### [Notebooks de python]
 ### [Carpeta con datasets](https://github.com/federicomoreno613/proyectos/tree/master/Clustering%20con%20Sonido)
