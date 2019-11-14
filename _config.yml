@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
 title: Federico Moreno
-description: Emprendedor creativo apasionado por el mundo de los datos.
+description: Licenciado en Economía Empresarial, Universidad Torcuato Di Tella.
+Estudiante del Maestría de Data Mining de la UBA
 
 
