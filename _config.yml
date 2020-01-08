@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 title: Federico Moreno
 description: Licenciado en Economía Empresarial, Universidad Torcuato Di Tella. Estudiante de la Maestría de Data Mining de la UBA
