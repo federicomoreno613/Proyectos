@@ -35,11 +35,12 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 #### [Carpeta con datasets](https://github.com/federicomoreno613/proyectos/tree/master/Clustering%20con%20Sonido/TP1)
 
 #### Grafos Neurología
-#### [Trabajo de investigacion (https://github.com/federicomoreno613/proyectos/raw/master/Grafos%20Neuro/DMCT_TP2_Grafos_Neuro%20(1).pdf)
+#### [Trabajo de investigacion] (https://github.com/federicomoreno613/proyectos/raw/master/Grafos%20Neuro/DMCT_TP2_Grafos_Neuro%20(1).pdf)
 
 
 ## Creatividad
 
-#### Dramaturgia
+#### Dramaturgia 
+#### Explicación (https://github.com/federicomoreno613/proyectos/tree/master/Creatividad)
 #### [Ejercicios de Dramaturgia con Python](https://github.com/federicomoreno613/proyectos/blob/master/Creatividad/kafka3.ipynb)
 *Prototipo*
