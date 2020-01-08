@@ -40,6 +40,6 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 ## Creatividad
 
 #### Dramaturgia 
-#### Explicación (https://github.com/federicomoreno613/proyectos/tree/master/Creatividad)
+#### [Explicación](https://github.com/federicomoreno613/proyectos/tree/master/Creatividad)
 #### [Ejercicios de Dramaturgia con Python](https://github.com/federicomoreno613/proyectos/blob/master/Creatividad/kafka3.ipynb)
 *Prototipo*
