@@ -2,14 +2,14 @@
 ###### [federicomoreno613@gmail.com](federicomoreno613@gmail.com)
 https://www.linkedin.com/in/federico-moreno-32955316/
 
-## 1er puesto en la Competencia de Predicción Churn de Banco Galicia.
-#### [Presentación sobre esquema de trabajo](https://rpubs.com/fede_moreno613/541034)
+## Competencia de Predicción Churn de Banco Galicia.
+#### [1er puesto: Presentación sobre esquema de trabajo](https://rpubs.com/fede_moreno613/541034)
 
 ## Préstamos personales
-#### [Arbol ID3](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.pdf)
+#### [Trabajo con el algoritmo ID3 sobre data financiera](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.pdf)
 #### [Notebook ID3](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.ipynb)
 
-### [Arbol ID3](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.pdf)
+#### [Trabajo con Random Forest y Xgboost sobre data financiera ](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.pdf)
 #### [Notebook Random Forest, Xgboost](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.ipynb)
 
 
