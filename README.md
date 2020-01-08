@@ -6,9 +6,11 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 #### [1er puesto: Presentación sobre esquema de trabajo](https://rpubs.com/fede_moreno613/541034)
 
 ## Préstamos personales
+#### Árbol ID3
 #### [Trabajo con el algoritmo ID3 sobre data financiera](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.pdf)
 #### [Notebook ID3](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.ipynb)
 
+#### Ensambles
 #### [Trabajo con Random Forest y Xgboost sobre data financiera ](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.pdf)
 #### [Notebook Random Forest, Xgboost](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.ipynb)
 
@@ -17,6 +19,7 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 #### Analisis del dataset de properati
 #### [EDA+Modelo lineal simple](https://rpubs.com/fede_moreno613/541034)
 #### [Regresion lineal multiple](http://rpubs.com/fede_moreno613/549138)
+#### Analisis del dataset titanic de Kaggle
 #### [Regresion logística](http://rpubs.com/fede_moreno613/557471)
 
 ## Data mining
