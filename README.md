@@ -35,7 +35,7 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 #### [Carpeta con datasets](https://github.com/federicomoreno613/proyectos/tree/master/Clustering%20con%20Sonido/TP1)
 
 #### Grafos Neurología
-#### [Investigación](https://github.com/federicomoreno613/proyectos/raw/master/Grafos%20Neuro/DMCT_TP2_Grafos_Neuro%20(1).pdf) 
+#### [Investigación](https://github.com/federicomoreno613/proyectos/blob/master/Grafos%20Neuro/DMCyT-TP2_Lewinger-Moreno-Picchetti%5B8227%5D.pdf) 
 
 ## Creatividad
 
