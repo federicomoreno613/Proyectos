@@ -8,11 +8,11 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 ## Préstamos personales
 #### Árbol ID3
 #### [Trabajo con el algoritmo ID3 sobre data financiera](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.pdf)
-#### [Python Notebook ID3](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.ipynb)
+#### [Python: Notebook ID3](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.ipynb)
 
 #### Ensambles
 #### [Trabajo con Random Forest y Xgboost sobre data financiera ](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.pdf)
-#### [Python Notebook Random Forest, Xgboost](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.ipynb)
+#### [Python: Notebook Random Forest, Xgboost](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.ipynb)
 
 
 ## Regresiones
@@ -31,7 +31,7 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 
 #### Clustering con audio features de la API de Spotify
 #### [Trabajo de investigacion](https://github.com/federicomoreno613/proyectos/raw/master/Clustering%20con%20Sonido/DMCyT-TP1_Moreno-Picchetti.pdf)
-#### [Python Notebooks](https://github.com/federicomoreno613/proyectos/blob/master/Clustering%20con%20Sonido/TP1/TP1.ipynb) 
+#### [Python: Notebooks](https://github.com/federicomoreno613/proyectos/blob/master/Clustering%20con%20Sonido/TP1/TP1.ipynb) 
 #### [Carpeta con datasets](https://github.com/federicomoreno613/proyectos/tree/master/Clustering%20con%20Sonido/TP1)
 
 #### Grafos Neurología
