@@ -2,8 +2,6 @@
 ###### [federicomoreno613@gmail.com](federicomoreno613@gmail.com)
 https://www.linkedin.com/in/federico-moreno-32955316/
 
-## Competencia de Predicción Churn de data bancaria
-#### [1er puesto: Presentación sobre esquema de trabajo](https://github.com/federicomoreno613/proyectos/blob/master/1er%20Puesto%20Competencia%20de%20Churn/presentacion_final1.pdf)
 
 ## Préstamos personales
 #### Árbol ID3
@@ -36,6 +34,10 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 
 #### Grafos Neurología
 #### [Investigación](https://github.com/federicomoreno613/proyectos/blob/master/Grafos%20Neuro/DMCyT-TP2_Lewinger-Moreno-Picchetti%5B8227%5D.pdf) 
+
+
+## Competencia de Predicción Churn de data bancaria
+#### [1er puesto: Presentación sobre esquema de trabajo](https://github.com/federicomoreno613/proyectos/blob/master/1er%20Puesto%20Competencia%20de%20Churn/presentacion_final1.pdf)
 
 ## Creatividad
 
