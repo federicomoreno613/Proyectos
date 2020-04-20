@@ -12,13 +12,17 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 #### [Trabajo con Random Forest y Xgboost sobre data financiera ](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.pdf)
 #### [Python: Notebook Random Forest, Xgboost](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.ipynb)
 
+## Map
+### Data Pami
+#### [Mapeo](https://konna.gitlab.io/pami-poc/Presentacion_PAMI.html)
 
-## Regresiones
-#### Analisis del dataset de properati
-#### [R: EDA+Modelo lineal simple](https://rpubs.com/fede_moreno613/541034)
-#### [R: Regresion lineal multiple](http://rpubs.com/fede_moreno613/549138)
-#### Analisis del dataset titanic de Kaggle
-#### [R: Regresion logística](http://rpubs.com/fede_moreno613/557471)
+## NLP
+### Twitter
+#### [Trabajo sobre comunicación política](https://rpubs.com/fede_moreno613/NLP-Twitter)
+
+## Capacitacion
+### Trabajo como docente
+#### [OPC](https://konna.gitlab.io/opc-capacitacion-r/)
 
 ## Data mining
 #### Analisis de la data de https://www.preciosclaros.gob.ar/
@@ -45,3 +49,12 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 #### [Explicación](https://github.com/federicomoreno613/proyectos/tree/master/Creatividad)
 #### [Ejercicios de Dramaturgia con Python](https://github.com/federicomoreno613/proyectos/blob/master/Creatividad/kafka3.ipynb)
 *Prototipo*
+
+
+## Regresiones
+#### Analisis del dataset de properati
+#### [R: EDA+Modelo lineal simple](https://rpubs.com/fede_moreno613/541034)
+#### [R: Regresion lineal multiple](http://rpubs.com/fede_moreno613/549138)
+#### Analisis del dataset titanic de Kaggle
+#### [R: Regresion logística](http://rpubs.com/fede_moreno613/557471)
+
