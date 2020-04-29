@@ -20,9 +20,6 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 ### Twitter
 #### [Trabajo sobre comunicación política](https://rpubs.com/fede_moreno613/NLP-Twitter)
 
-## Capacitacion
-### Trabajo como docente
-#### [OPC](https://konna.gitlab.io/opc-capacitacion-r/)
 
 ## Data mining
 #### Analisis de la data de https://www.preciosclaros.gob.ar/
