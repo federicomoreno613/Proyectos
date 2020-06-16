@@ -21,6 +21,7 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 #### [Trabajo sobre comunicación política](https://rpubs.com/fede_moreno613/NLP-Twitter)
 
 
+
 ## Data mining
 #### Analisis de la data de https://www.preciosclaros.gob.ar/
 #### [Precios Claros 1](https://github.com/federicomoreno613/proyectos/raw/master/Precios%20Claros%20CABA/Moreno_Picchetti_DM_TP01.pdf)
@@ -39,6 +40,12 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 
 ## Competencia de Predicción Churn de data bancaria
 #### [1er puesto: Presentación sobre esquema de trabajo](https://github.com/federicomoreno613/proyectos/blob/master/1er%20Puesto%20Competencia%20de%20Churn/presentacion_final1.pdf)
+
+## IMBD
+### Dataset de peliculas
+### Regresion multiple y NLP Tf-Idf asociacion de palabras
+#### [Notebook](https://github.com/federicomoreno613/proyectos/blob/master/imbd/Federico_Moreno.ipynb)
+
 
 ## Creatividad
 
