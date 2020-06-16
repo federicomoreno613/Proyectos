@@ -2,25 +2,24 @@
 ###### [federicomoreno613@gmail.com](federicomoreno613@gmail.com)
 https://www.linkedin.com/in/federico-moreno-32955316/
 
-## Competencia de Predicción Churn de Banco Galicia.
-#### [1er puesto: Presentación sobre esquema de trabajo](https://rpubs.com/fede_moreno613/541034)
 
 ## Préstamos personales
 #### Árbol ID3
 #### [Trabajo con el algoritmo ID3 sobre data financiera](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.pdf)
-#### [Notebook ID3](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.ipynb)
+#### [Python: Notebook ID3](https://github.com/federicomoreno613/proyectos/blob/master/ID3/TP1-ML%20Moreno-Perini-Piccheti%2030may19.ipynb)
 
 #### Ensambles
 #### [Trabajo con Random Forest y Xgboost sobre data financiera ](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.pdf)
-#### [Notebook Random Forest, Xgboost](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.ipynb)
+#### [Python: Notebook Random Forest, Xgboost](https://github.com/federicomoreno613/proyectos/blob/master/Random%20Forest%20Xgboot/Tp2-Grupo18.ipynb)
 
+## Map
+### Data Pami
+#### [Mapeo](https://konna.gitlab.io/pami-poc/Presentacion_PAMI.html)
 
-## Regresiones
-#### Analisis del dataset de properati
-#### [EDA+Modelo lineal simple](https://rpubs.com/fede_moreno613/541034)
-#### [Regresion lineal multiple](http://rpubs.com/fede_moreno613/549138)
-#### Analisis del dataset titanic de Kaggle
-#### [Regresion logística](http://rpubs.com/fede_moreno613/557471)
+## NLP
+### Twitter
+#### [Trabajo sobre comunicación política](https://rpubs.com/fede_moreno613/NLP-Twitter)
+
 
 ## Data mining
 #### Analisis de la data de https://www.preciosclaros.gob.ar/
@@ -31,11 +30,15 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 
 #### Clustering con audio features de la API de Spotify
 #### [Trabajo de investigacion](https://github.com/federicomoreno613/proyectos/raw/master/Clustering%20con%20Sonido/DMCyT-TP1_Moreno-Picchetti.pdf)
-#### [Notebooks de python](https://github.com/federicomoreno613/proyectos/blob/master/Clustering%20con%20Sonido/TP1/TP1.ipynb) 
+#### [Python: Notebooks](https://github.com/federicomoreno613/proyectos/blob/master/Clustering%20con%20Sonido/TP1/TP1.ipynb) 
 #### [Carpeta con datasets](https://github.com/federicomoreno613/proyectos/tree/master/Clustering%20con%20Sonido/TP1)
 
 #### Grafos Neurología
-#### [Investigación](https://github.com/federicomoreno613/proyectos/raw/master/Grafos%20Neuro/DMCT_TP2_Grafos_Neuro%20(1).pdf) 
+#### [Investigación](https://github.com/federicomoreno613/proyectos/blob/master/Grafos%20Neuro/DMCyT-TP2_Lewinger-Moreno-Picchetti%5B8227%5D.pdf) 
+
+
+## Competencia de Predicción Churn de data bancaria
+#### [1er puesto: Presentación sobre esquema de trabajo](https://github.com/federicomoreno613/proyectos/blob/master/1er%20Puesto%20Competencia%20de%20Churn/presentacion_final1.pdf)
 
 ## Creatividad
 
@@ -43,3 +46,12 @@ https://www.linkedin.com/in/federico-moreno-32955316/
 #### [Explicación](https://github.com/federicomoreno613/proyectos/tree/master/Creatividad)
 #### [Ejercicios de Dramaturgia con Python](https://github.com/federicomoreno613/proyectos/blob/master/Creatividad/kafka3.ipynb)
 *Prototipo*
+
+
+## Regresiones
+#### Analisis del dataset de properati
+#### [R: EDA+Modelo lineal simple](https://rpubs.com/fede_moreno613/541034)
+#### [R: Regresion lineal multiple](http://rpubs.com/fede_moreno613/549138)
+#### Analisis del dataset titanic de Kaggle
+#### [R: Regresion logística](http://rpubs.com/fede_moreno613/557471)
+
