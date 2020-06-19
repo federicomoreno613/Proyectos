@@ -1,6 +1,7 @@
 
 ###### [federicomoreno613@gmail.com](federicomoreno613@gmail.com)
 https://www.linkedin.com/in/federico-moreno-32955316/
+##### [Link al CV en PDF](https://github.com/federicomoreno613/proyectos/blob/master/CV%20Moreno%20Federico.pdf)
 
 
 ## Préstamos personales
